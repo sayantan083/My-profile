@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Philosopher', sans-serif;
+}
+span{
+    text-decoration: underline;
+}
+#intro{
+    background-color: #ddf3f5;
+    position: relative;
+    padding-top: 100px;
+    color: #66BFBF;
+}
+#intro h1{
+    font-size: 5.625rem;
+    font-family: 'Tangerine', cursive;
+}
+#intro h2{
+    font-size: 2.5rem;
+    font-family: 'Philosopher', sans-serif;
+    font-weight: normal;
+}
+#upper-cloud{
+    top: 50px;
+    position: absolute;
+    right: 300px;
+}
+#lower-cloud{
+    position: absolute;
+    left: 300px;
+}
+#mountain{
+    display: block;
+    margin: 0 auto;
+}
+#mypic{
+    height:25%;
+    width:25%;
+}
+.description h1{
+    font-size: 2.5rem;
+}
+.description p{
+    font-size: 3rem;
+}
+#gif{
+    border-radius: 50%;
+    float:left;
+}
+#skills p{
+    padding:100px auto;
+    line-height: 2;
+}
+#skills h1{
+    font-size: 2.5rem;
+}
