@@ -9,30 +9,30 @@ span{
 #intro{
     background-color: #ddf3f5;
     position: relative;
-    padding-top: 100px;
+    padding-top: 10%;
     color: #66BFBF;
 }
 #intro h1{
-    font-size: 5.625rem;
     font-family: 'Tangerine', cursive;
+    font-size: 3rem;
 }
 #intro h2{
-    font-size: 2.5rem;
     font-family: 'Philosopher', sans-serif;
     font-weight: normal;
 }
 #upper-cloud{
-    top: 50px;
+    top: 10%;
     position: absolute;
-    right: 300px;
+    right: 20%;
 }
 #lower-cloud{
     position: absolute;
-    left: 300px;
+    left: 20%;
 }
 #mountain{
     display: block;
     margin: 0 auto;
+    width: 45%;
 }
 #mypic{
     height:25%;
@@ -43,14 +43,19 @@ span{
 }
 .description p{
     font-size: 3rem;
+    line-height: 2;
 }
-#gif{
+#skills img{
     border-radius: 50%;
     float:left;
+    width: 20%;
+    margin-right:10%;
+    margin-left: 10%;
 }
 #skills p{
-    padding:100px auto;
     line-height: 2;
+    margin: 0 10% 10% 0;
+    display: block;
 }
 #skills h1{
     font-size: 2.5rem;
